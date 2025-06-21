@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Customer Behavior Analytics Dashboard
 
-This project presents an end-to-end analysis of e-commerce customer behavior using a **synthetic dataset generated via the Faker Python library**. It simulates a realistic e-commerce landscape for advanced data analysis, statistical modeling, and interactive visualization. The project culminates in a **multi-tab, dynamic dashboard built with Python and Dash**, empowering strategic business decision-making.
+This project presents an end-to-end analysis of e-commerce customer behavior using a **synthetic dataset(Shopify) generated via the Faker Python library**. It simulates a realistic e-commerce landscape for advanced data analysis, statistical modeling, and interactive visualization. The project culminates in a **multi-tab, dynamic dashboard built with Python and Dash**, empowering strategic business decision-making.
 
 ---
 
