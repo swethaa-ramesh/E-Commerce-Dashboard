@@ -44,7 +44,10 @@ A multi-tab **Dash** application with real-time filtering and reporting:
 - **Data Table & Export**: Filter and download custom CSVs
 - **Custom Report Generator**: Embed visual elements into auto-generated summaries
 
-> 💡 *Tip: Include screenshots of each tab here for better visibility.*
+
+![plot 3](https://github.com/user-attachments/assets/0ebb2047-c647-4cf4-aeb8-b1a35209d8b1)
+![plot 2](https://github.com/user-attachments/assets/3d1aab18-a9b0-4a10-ab3e-b6c3dff574dc)
+![plot 1](https://github.com/user-attachments/assets/1ead956c-bbf5-4962-8429-5c5716c341a7)
 
 ---
 
